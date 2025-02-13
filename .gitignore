@@ -1,0 +1,32 @@
+# Ignore log files
+logs/
+*.log
+
+# Ignore compiled binaries
+bin/
+*.exe
+*.out
+*.o
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Ignore IDE & Editor Files
+.vscode/
+.idea/
+*.iml
+
+# Ignore dependencies (optional, jika menggunakan Go Modules)
+vendor/
+
+# Ignore Go build artifacts
+*.test
+*.cover
+
+*.sum
+
+# Ignore environment files
+.env
