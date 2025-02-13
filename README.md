@@ -5,6 +5,7 @@
 Untuk frontend, proyek ini menggunakan Next.js.
 
 ### 📌 Fitur Utama
+```
 ✅ CRUD Marketing & Penjualan
 ✅ Manajemen Pembayaran & Kredit
 ✅ Komisi Marketing otomatis berdasarkan transaksi
@@ -12,6 +13,7 @@ Untuk frontend, proyek ini menggunakan Next.js.
 ✅ Database Management dengan GORM (ORM untuk Golang)
 ✅ CORS Handling untuk integrasi dengan frontend
 ✅ Docker Support (Opsional)
+```
 
 🚀 Cara Menjalankan Proyek
 ### 1️⃣ Install Golang
@@ -57,7 +59,7 @@ DB_NAME=testdev               # Nama database
 ```
 
 
-6️⃣ Jalankan Backend
+### 6️⃣ Jalankan Backend
 Jalankan perintah berikut untuk memulai backend:
 ```sh
 go run .
