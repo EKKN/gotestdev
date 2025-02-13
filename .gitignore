@@ -28,5 +28,3 @@ vendor/
 
 *.sum
 
-# Ignore environment files
-.env
