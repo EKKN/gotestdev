@@ -14,6 +14,8 @@
 install golang
 https://go.dev/doc/install
 
+
+
 ### 2️⃣ Clone Repository
 git clone https://github.com/EKKN/gotestdev.git
 
@@ -32,7 +34,7 @@ Buat database MySQL dengan nama testdev
 
 
 ### 5️⃣ File .env
-Edit file .envexmaple di root dir menjadi .env untuk konfigurasi database:
+Edit file .env di root 
 
 APP_PORT=:5010 => ini adalah port running rest
 
@@ -42,7 +44,7 @@ ALLOW_ORIGIN=http://localhost:3000  => allow origin
 
 DB_USER=root
 
-DB_PASSWORD=password
+DB_PASSWORD=root 
 
 DB_HOST=localhost
 
@@ -55,3 +57,7 @@ DB_NAME=testdev
 
 ### 6️⃣ jalankan service
 go run .
+
+
+### 7️⃣ Deploy ke Vercel
+import postman di folder root
