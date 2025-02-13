@@ -15,7 +15,7 @@ Untuk frontend, proyek ini menggunakan Next.js.
 ✅ Docker Support (Opsional)
 ```
 
-##### 🚀 Cara Menjalankan Proyek
+***🚀 Cara Menjalankan Proyek***
 
 ### 1️⃣ Install Golang
 Pastikan Golang telah terinstal di sistem Anda.
