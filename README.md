@@ -21,7 +21,6 @@ Untuk frontend, proyek ini menggunakan Next.js.
 Pastikan Golang telah terinstal di sistem Anda.
 Jika belum, silakan install dari situs resmi Golang.
 
-### 1️⃣ Install Golang
 Install Golang dari [situs resmi](https://go.dev/doc/install)
 
 ### 2️⃣ Clone Repository
